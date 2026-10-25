@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/zimo0o0omiz/zimo0o0omiz#readme",
   "dependencies": {
-    "mustache": "^4.0.1",
-    "urllib": "^2.36.1",
-    "xmlreader": "^0.2.3"
+    "mustache": "^4.0.1"
   }
 }
