@@ -1,21 +1,21 @@
 {
   "name": "zimoloveshuang",
   "version": "1.0.0",
-  "description": "<!--\r **ZimoLoveShuang/ZimoLoveShuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "description": "<!--\r **zimo0o0omiz/zimo0o0omiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZimoLoveShuang/ZimoLoveShuang.git"
+    "url": "git+https://github.com/zimo0o0omiz/zimo0o0omiz.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZimoLoveShuang/ZimoLoveShuang/issues"
+    "url": "https://github.com/zimo0o0omiz/zimo0o0omiz/issues"
   },
-  "homepage": "https://github.com/ZimoLoveShuang/ZimoLoveShuang#readme",
+  "homepage": "https://github.com/zimo0o0omiz/zimo0o0omiz#readme",
   "dependencies": {
     "mustache": "^4.0.1",
     "urllib": "^2.36.1",
